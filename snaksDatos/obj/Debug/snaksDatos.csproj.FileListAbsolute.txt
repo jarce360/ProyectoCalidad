@@ -1,0 +1,20 @@
+C:\Users\wil_v\Source\Workspaces\Snaks UTN Calidad Viernes\slnSnacks\snaksDatos\bin\Debug\snaksDatos.dll
+C:\Users\wil_v\Source\Workspaces\Snaks UTN Calidad Viernes\slnSnacks\snaksDatos\bin\Debug\snaksDatos.pdb
+C:\Users\wil_v\Source\Workspaces\Snaks UTN Calidad Viernes\slnSnacks\snaksDatos\obj\Debug\snaksDatos.csprojResolveAssemblyReference.cache
+C:\Users\wil_v\Source\Workspaces\Snaks UTN Calidad Viernes\slnSnacks\snaksDatos\obj\Debug\snaksDatos.dll
+C:\Users\wil_v\Source\Workspaces\Snaks UTN Calidad Viernes\slnSnacks\snaksDatos\obj\Debug\snaksDatos.pdb
+C:\Users\HP\Videos\slnSnacks\snaksDatos\obj\Debug\snaksDatos.csprojResolveAssemblyReference.cache
+C:\Users\HP\Videos\slnSnacks\snaksDatos\obj\Debug\snaksDatos.dll
+C:\Users\HP\Videos\slnSnacks\snaksDatos\obj\Debug\snaksDatos.pdb
+C:\Users\HP\Videos\slnSnacks\snaksDatos\bin\Debug\snaksDatos.dll
+C:\Users\HP\Videos\slnSnacks\snaksDatos\bin\Debug\snaksDatos.pdb
+C:\Users\Jonathan\Videos\slnSnacks\snaksDatos\bin\Debug\snaksDatos.dll
+C:\Users\Jonathan\Videos\slnSnacks\snaksDatos\bin\Debug\snaksDatos.pdb
+C:\Users\Jonathan\Videos\slnSnacks\snaksDatos\obj\Debug\snaksDatos.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Videos\slnSnacks\snaksDatos\obj\Debug\snaksDatos.dll
+C:\Users\Jonathan\Videos\slnSnacks\snaksDatos\obj\Debug\snaksDatos.pdb
+C:\Users\Jonathan\Desktop\todos los proyectos progra\slnSnacks\snaksDatos\bin\Debug\snaksDatos.dll
+C:\Users\Jonathan\Desktop\todos los proyectos progra\slnSnacks\snaksDatos\bin\Debug\snaksDatos.pdb
+C:\Users\Jonathan\Desktop\todos los proyectos progra\slnSnacks\snaksDatos\obj\Debug\snaksDatos.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\todos los proyectos progra\slnSnacks\snaksDatos\obj\Debug\snaksDatos.dll
+C:\Users\Jonathan\Desktop\todos los proyectos progra\slnSnacks\snaksDatos\obj\Debug\snaksDatos.pdb

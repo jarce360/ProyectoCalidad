@@ -1,0 +1,5 @@
+C:\Users\wil_v\Source\Workspaces\Snaks UTN Calidad Viernes\slnSnacks\snaksEntidades\bin\Debug\snaksEntidades.dll
+C:\Users\wil_v\Source\Workspaces\Snaks UTN Calidad Viernes\slnSnacks\snaksEntidades\bin\Debug\snaksEntidades.pdb
+C:\Users\wil_v\Source\Workspaces\Snaks UTN Calidad Viernes\slnSnacks\snaksEntidades\obj\Debug\snaksEntidades.csprojResolveAssemblyReference.cache
+C:\Users\wil_v\Source\Workspaces\Snaks UTN Calidad Viernes\slnSnacks\snaksEntidades\obj\Debug\snaksEntidades.dll
+C:\Users\wil_v\Source\Workspaces\Snaks UTN Calidad Viernes\slnSnacks\snaksEntidades\obj\Debug\snaksEntidades.pdb

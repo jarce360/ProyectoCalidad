@@ -1,0 +1,18 @@
+C:\Users\wil_v\Source\Workspaces\Snaks UTN Calidad Viernes\slnSnacks\snaksLogicaNegocio\bin\Debug\snaksLogicaNegocio.dll
+C:\Users\wil_v\Source\Workspaces\Snaks UTN Calidad Viernes\slnSnacks\snaksLogicaNegocio\bin\Debug\snaksLogicaNegocio.pdb
+C:\Users\wil_v\Source\Workspaces\Snaks UTN Calidad Viernes\slnSnacks\snaksLogicaNegocio\bin\Debug\snaksDatos.dll
+C:\Users\wil_v\Source\Workspaces\Snaks UTN Calidad Viernes\slnSnacks\snaksLogicaNegocio\bin\Debug\snaksEntidades.dll
+C:\Users\wil_v\Source\Workspaces\Snaks UTN Calidad Viernes\slnSnacks\snaksLogicaNegocio\bin\Debug\snaksDatos.pdb
+C:\Users\wil_v\Source\Workspaces\Snaks UTN Calidad Viernes\slnSnacks\snaksLogicaNegocio\bin\Debug\snaksEntidades.pdb
+C:\Users\wil_v\Source\Workspaces\Snaks UTN Calidad Viernes\slnSnacks\snaksLogicaNegocio\obj\Debug\snaksLogicaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\wil_v\Source\Workspaces\Snaks UTN Calidad Viernes\slnSnacks\snaksLogicaNegocio\obj\Debug\snaksLogicaNegocio.dll
+C:\Users\wil_v\Source\Workspaces\Snaks UTN Calidad Viernes\slnSnacks\snaksLogicaNegocio\obj\Debug\snaksLogicaNegocio.pdb
+C:\Users\HP\Videos\slnSnacks\snaksLogicaNegocio\obj\Debug\snaksLogicaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\HP\Videos\slnSnacks\snaksLogicaNegocio\obj\Debug\snaksLogicaNegocio.dll
+C:\Users\HP\Videos\slnSnacks\snaksLogicaNegocio\bin\Debug\snaksLogicaNegocio.dll
+C:\Users\HP\Videos\slnSnacks\snaksLogicaNegocio\bin\Debug\snaksLogicaNegocio.pdb
+C:\Users\HP\Videos\slnSnacks\snaksLogicaNegocio\bin\Debug\snaksDatos.dll
+C:\Users\HP\Videos\slnSnacks\snaksLogicaNegocio\bin\Debug\snaksEntidades.dll
+C:\Users\HP\Videos\slnSnacks\snaksLogicaNegocio\bin\Debug\snaksDatos.pdb
+C:\Users\HP\Videos\slnSnacks\snaksLogicaNegocio\bin\Debug\snaksEntidades.pdb
+C:\Users\HP\Videos\slnSnacks\snaksLogicaNegocio\obj\Debug\snaksLogicaNegocio.pdb

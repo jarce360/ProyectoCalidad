@@ -1,0 +1,80 @@
+C:\Users\wil_v\Source\Workspaces\Snaks UTN Calidad Viernes\slnSnacks\slnSnacks\obj\Debug\slnSnacks.csprojResolveAssemblyReference.cache
+C:\Users\wil_v\Source\Workspaces\Snaks UTN Calidad Viernes\slnSnacks\slnSnacks\bin\slnSnacks.dll.config
+C:\Users\wil_v\Source\Workspaces\Snaks UTN Calidad Viernes\slnSnacks\slnSnacks\bin\slnSnacks.dll
+C:\Users\wil_v\Source\Workspaces\Snaks UTN Calidad Viernes\slnSnacks\slnSnacks\bin\slnSnacks.pdb
+C:\Users\wil_v\Source\Workspaces\Snaks UTN Calidad Viernes\slnSnacks\slnSnacks\bin\roslyn\csc.exe
+C:\Users\wil_v\Source\Workspaces\Snaks UTN Calidad Viernes\slnSnacks\slnSnacks\bin\roslyn\csc.exe.config
+C:\Users\wil_v\Source\Workspaces\Snaks UTN Calidad Viernes\slnSnacks\slnSnacks\bin\roslyn\csc.rsp
+C:\Users\wil_v\Source\Workspaces\Snaks UTN Calidad Viernes\slnSnacks\slnSnacks\bin\roslyn\csi.exe
+C:\Users\wil_v\Source\Workspaces\Snaks UTN Calidad Viernes\slnSnacks\slnSnacks\bin\roslyn\csi.rsp
+C:\Users\wil_v\Source\Workspaces\Snaks UTN Calidad Viernes\slnSnacks\slnSnacks\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\wil_v\Source\Workspaces\Snaks UTN Calidad Viernes\slnSnacks\slnSnacks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\wil_v\Source\Workspaces\Snaks UTN Calidad Viernes\slnSnacks\slnSnacks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\wil_v\Source\Workspaces\Snaks UTN Calidad Viernes\slnSnacks\slnSnacks\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\wil_v\Source\Workspaces\Snaks UTN Calidad Viernes\slnSnacks\slnSnacks\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\wil_v\Source\Workspaces\Snaks UTN Calidad Viernes\slnSnacks\slnSnacks\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\wil_v\Source\Workspaces\Snaks UTN Calidad Viernes\slnSnacks\slnSnacks\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\wil_v\Source\Workspaces\Snaks UTN Calidad Viernes\slnSnacks\slnSnacks\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\wil_v\Source\Workspaces\Snaks UTN Calidad Viernes\slnSnacks\slnSnacks\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\wil_v\Source\Workspaces\Snaks UTN Calidad Viernes\slnSnacks\slnSnacks\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\wil_v\Source\Workspaces\Snaks UTN Calidad Viernes\slnSnacks\slnSnacks\bin\roslyn\System.AppContext.dll
+C:\Users\wil_v\Source\Workspaces\Snaks UTN Calidad Viernes\slnSnacks\slnSnacks\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\wil_v\Source\Workspaces\Snaks UTN Calidad Viernes\slnSnacks\slnSnacks\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\wil_v\Source\Workspaces\Snaks UTN Calidad Viernes\slnSnacks\slnSnacks\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\wil_v\Source\Workspaces\Snaks UTN Calidad Viernes\slnSnacks\slnSnacks\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\wil_v\Source\Workspaces\Snaks UTN Calidad Viernes\slnSnacks\slnSnacks\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\wil_v\Source\Workspaces\Snaks UTN Calidad Viernes\slnSnacks\slnSnacks\bin\roslyn\vbc.exe
+C:\Users\wil_v\Source\Workspaces\Snaks UTN Calidad Viernes\slnSnacks\slnSnacks\bin\roslyn\vbc.exe.config
+C:\Users\wil_v\Source\Workspaces\Snaks UTN Calidad Viernes\slnSnacks\slnSnacks\bin\roslyn\vbc.rsp
+C:\Users\wil_v\Source\Workspaces\Snaks UTN Calidad Viernes\slnSnacks\slnSnacks\bin\roslyn\VBCSCompiler.exe
+C:\Users\wil_v\Source\Workspaces\Snaks UTN Calidad Viernes\slnSnacks\slnSnacks\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\wil_v\Source\Workspaces\Snaks UTN Calidad Viernes\slnSnacks\slnSnacks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\wil_v\Source\Workspaces\Snaks UTN Calidad Viernes\slnSnacks\slnSnacks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\wil_v\Source\Workspaces\Snaks UTN Calidad Viernes\slnSnacks\slnSnacks\obj\Debug\slnSnacks.dll
+C:\Users\wil_v\Source\Workspaces\Snaks UTN Calidad Viernes\slnSnacks\slnSnacks\obj\Debug\slnSnacks.pdb
+C:\Users\wil_v\Source\Workspaces\Snaks UTN Calidad Viernes\slnSnacks\slnSnacks\bin\snaksLogicaNegocio.dll
+C:\Users\wil_v\Source\Workspaces\Snaks UTN Calidad Viernes\slnSnacks\slnSnacks\bin\snaksEntidades.dll
+C:\Users\wil_v\Source\Workspaces\Snaks UTN Calidad Viernes\slnSnacks\slnSnacks\bin\snaksDatos.dll
+C:\Users\wil_v\Source\Workspaces\Snaks UTN Calidad Viernes\slnSnacks\slnSnacks\bin\snaksLogicaNegocio.pdb
+C:\Users\wil_v\Source\Workspaces\Snaks UTN Calidad Viernes\slnSnacks\slnSnacks\bin\snaksEntidades.pdb
+C:\Users\wil_v\Source\Workspaces\Snaks UTN Calidad Viernes\slnSnacks\slnSnacks\bin\snaksDatos.pdb
+C:\Users\HP\Videos\slnSnacks\slnSnacks\bin\slnSnacks.dll.config
+C:\Users\HP\Videos\slnSnacks\slnSnacks\bin\slnSnacks.dll
+C:\Users\HP\Videos\slnSnacks\slnSnacks\bin\slnSnacks.pdb
+C:\Users\HP\Videos\slnSnacks\slnSnacks\bin\roslyn\csc.exe
+C:\Users\HP\Videos\slnSnacks\slnSnacks\bin\roslyn\csc.exe.config
+C:\Users\HP\Videos\slnSnacks\slnSnacks\bin\roslyn\csc.rsp
+C:\Users\HP\Videos\slnSnacks\slnSnacks\bin\roslyn\csi.exe
+C:\Users\HP\Videos\slnSnacks\slnSnacks\bin\roslyn\csi.rsp
+C:\Users\HP\Videos\slnSnacks\slnSnacks\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Videos\slnSnacks\slnSnacks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Videos\slnSnacks\slnSnacks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\Videos\slnSnacks\slnSnacks\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Videos\slnSnacks\slnSnacks\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\Videos\slnSnacks\slnSnacks\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Videos\slnSnacks\slnSnacks\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Videos\slnSnacks\slnSnacks\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\Videos\slnSnacks\slnSnacks\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\Videos\slnSnacks\slnSnacks\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Videos\slnSnacks\slnSnacks\bin\roslyn\System.AppContext.dll
+C:\Users\HP\Videos\slnSnacks\slnSnacks\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Videos\slnSnacks\slnSnacks\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\Videos\slnSnacks\slnSnacks\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\Videos\slnSnacks\slnSnacks\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\Videos\slnSnacks\slnSnacks\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Videos\slnSnacks\slnSnacks\bin\roslyn\vbc.exe
+C:\Users\HP\Videos\slnSnacks\slnSnacks\bin\roslyn\vbc.exe.config
+C:\Users\HP\Videos\slnSnacks\slnSnacks\bin\roslyn\vbc.rsp
+C:\Users\HP\Videos\slnSnacks\slnSnacks\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Videos\slnSnacks\slnSnacks\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Videos\slnSnacks\slnSnacks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Videos\slnSnacks\slnSnacks\bin\snaksEntidades.dll
+C:\Users\HP\Videos\slnSnacks\slnSnacks\bin\snaksLogicaNegocio.dll
+C:\Users\HP\Videos\slnSnacks\slnSnacks\bin\snaksDatos.dll
+C:\Users\HP\Videos\slnSnacks\slnSnacks\bin\snaksEntidades.pdb
+C:\Users\HP\Videos\slnSnacks\slnSnacks\bin\snaksLogicaNegocio.pdb
+C:\Users\HP\Videos\slnSnacks\slnSnacks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Videos\slnSnacks\slnSnacks\bin\snaksDatos.pdb
+C:\Users\HP\Videos\slnSnacks\slnSnacks\obj\Debug\slnSnacks.csprojResolveAssemblyReference.cache
+C:\Users\HP\Videos\slnSnacks\slnSnacks\obj\Debug\slnSnacks.dll
+C:\Users\HP\Videos\slnSnacks\slnSnacks\obj\Debug\slnSnacks.pdb

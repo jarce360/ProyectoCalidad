@@ -1,0 +1,68 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Principal.master.cs" Inherits="slnSnacks.SitioWeb.Principal" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link href="../css/materialize.min.css" rel="stylesheet" />
+    <link href="../css/Estilo.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <script src="../Scripts/jquery-3.3.1.min.js"></script>
+    <script src="../js/materialize.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+                $(".dropdown-button").dropdown();
+            }
+        );
+    </script>
+
+    <form id="form1" runat="server">
+        <header>
+            <%--<nav>
+                    <ul>
+                        <li><a href="index.aspx">Inicio</a></li>
+                        <li><a>Prueba 2</a></li>
+                    </ul>
+                </nav>--%>
+            <!-- Dropdown Structure -->
+            <ul id="dropdown1" class="dropdown-content">
+                <li><a href="#!">one</a></li>
+                <li><a href="#!">two</a></li>
+                <li class="divider"></li>
+                <li><a href="#!">three</a></li>
+            </ul>
+            <ul id="dropdown2" class="dropdown-content">
+                <li><a href="#!">Nueva Factura</a></li>
+                <li class="divider"></li>
+                <li><a href="#!">....</a></li>
+            </ul>
+            <nav>
+                <div class="nav-wrapper">
+                    <a href="index.aspx" class="brand-logo"><i class="material-icons">add_shopping_cart</i></a>
+                    <ul class="right hide-on-med-and-down">
+                        <!-- Dropdown Trigger -->
+                        <li><a class="dropdown-button" href="#!" data-activates="dropdown1">Mantenimiento<i class="material-icons left">arrow_drop_down</i></a></li>
+                        <li><a class="dropdown-button" href="#!" data-activates="dropdown2">Facturas<i class="material-icons left">arrow_drop_down</i></a></li>
+                        <li><a href="sass.html">Salir</a></li>
+                    </ul>
+                </div>
+            </nav>
+        </header>
+
+        <main>
+            <div class="container">
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+
+        </asp:ContentPlaceHolder>
+         </div>
+         </main>
+    </form>
+</body>
+</html>
